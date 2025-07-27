@@ -25,7 +25,7 @@
             <!-- Logo Section -->
             <div class="flex items-center">
                 <div class="flex-shrink-0 flex items-center">
-                    <img class="h-40 w-40" src="{{ url('SyntaxError404 (6).png') }}" alt="Logo">
+                    <img class="h-40 w-40 mb-3" src="{{ url('SyntaxError404 (6).png') }}" alt="Logo">
                 </div>
             </div>
             <!-- Desktop Navigation -->
